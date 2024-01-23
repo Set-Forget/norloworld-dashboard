@@ -25,7 +25,7 @@ const people = [
 ];
 
 const endPoint =
-  "https://script.google.com/macros/s/AKfycbwTHoBwo4RKtAo1Gz3ad0e8ydwUI4TBACO1Wcqnu9FYu_SFHRTVeXJuPHSeRx9o6W_T/exec";
+  "https://script.google.com/macros/s/AKfycbxeWNlfZbqwFecIBtuZYeLH99PExXIMwpvddz5Z-x3a22B_z6LrUeq9QJKnCixPX0d-/exec";
 
 const isWithinRange = (fixedDate, startDate, endDate) => {
   const start = dayjs(startDate).startOf("day");
